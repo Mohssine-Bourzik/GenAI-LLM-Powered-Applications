@@ -1,5 +1,5 @@
 ---
-title: Project-1
+title: LLMsIntro
 emoji: 🏃
 colorFrom: green
 colorTo: purple
