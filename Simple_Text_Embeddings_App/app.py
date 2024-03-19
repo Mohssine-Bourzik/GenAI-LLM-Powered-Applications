@@ -36,7 +36,7 @@ load_dotenv()
 
 #By using st.set_page_config(), you can customize the appearance of your Streamlit application's web page
 st.set_page_config(page_title="Educate Kids", page_icon=":robot:")
-st.header("Hey, Ask me something & I will give out similar Words")
+st.header("Hey, ask me something & I will give out similar words")
 
 #Initialize the OpenAIEmbeddings object
 embeddings = OpenAIEmbeddings()
